@@ -20,24 +20,22 @@
 
 //==========================Q5=====================================
 // let food = "PIZZA";
-// // console.log(food);
+// console.log(food);
 
 // let final = food.slice(0, food.length-1);
-// // console.log(final);
+// console.log(final);
 
 // final = food.slice(0, food.length-2);
-// // console.log(final);
+// console.log(final);
 
 // final = food.slice(0, food.length-3);
-// // console.log(final);
+// console.log(final);
 
 // final = food.slice(0, food.length-4);
-// // console.log(final);
+// console.log(final);
 
 // final = food.slice(0, food.length-5);
-// // console.log(final);
-
-// alert();
+// console.log(final);
 
 //==========================Q6=====================================
 // let email = "syedaalizaayaz.1276@gmail.com";

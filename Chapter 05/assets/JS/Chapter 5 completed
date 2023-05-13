@@ -167,4 +167,4 @@
 
 // document.write("Favourite Snack: " + myFavSnack + "<br>" + "Current age: " + myCurrentAge + "<br>" + "Estimated Maximum Age: " + estimatedMaxAge + "<br>" + " Amount of snacks per day: " + amountPerDay + "<br>" + "You will need " + total + " " + myFavSnack + " to last you until the ripe old age of " + estimatedMaxAge);
 
-// ========================================== END ========================================== 
+// ========================================== END =========================================== 

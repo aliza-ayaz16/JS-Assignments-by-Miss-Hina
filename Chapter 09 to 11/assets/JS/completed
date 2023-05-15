@@ -24,8 +24,24 @@
 // }
 
 // ========================================== Question 03 ========================================== 
+// var signalColor = prompt("Insert any traffic light color:", "Red, Yellow or Green");
 
-//smjh nhi aa rha tha, will complete after asking ma'am
+// if (signalColor === "Red" || signalColor === "red") {
+//     alert("Must Stop!");
+// }
+
+// else if (signalColor === "Yellow" || signalColor === "yellow") {
+//     alert("Ready to move");
+// }
+
+// else if (signalColor === "Green" || signalColor === "green") {
+//     alert("Move Now");
+// }
+
+// else {
+//     alert("Make sure you've entered right color with right spelling; either capitalized or lowercased");
+// }
+
 
 // ========================================== Question 04 ========================================== 
 // let remainingFuel = +prompt("How much fuel is left in your car");
@@ -188,8 +204,32 @@
 // }
 
 // ========================================== Question 11 ==========================================
+// let firstNum = +prompt("Enter the first number:");
+// let secondNum = +prompt("Enter the second number:");
+// let operator = prompt("Enter the operation you want to perform:", "+, -, *, /, %");
 
+// if (operator === "+" || operator === "add" || operator === "addition" || operator === "sum") {
+//     alert(firstNum + secondNum);
+// }
 
-// // smjh nhi aa rha
+// else if (operator === "-" || operator === "subtract" || operator === "subtraction" || operator === "difference") {
+//     alert(firstNum - secondNum);
+// }
+
+// else if (operator === "*" || operator === "x" || operator === "multiply" || operator === "multiplication" || operator === "product") {
+//     alert(firstNum * secondNum);
+// }
+
+// else if (operator === "/" || operator === "divide" || operator === "division") {
+//     alert(firstNum / secondNum);
+// }
+
+// else if (operator === "%" || operator === "modulo") {
+//     alert(firstNum % secondNum);
+// }
+
+// else {
+//     alert("Make sure you've entered correct operator, either the sign or text in lowercase");
+// }
 
 // ========================================== END ========================================== 

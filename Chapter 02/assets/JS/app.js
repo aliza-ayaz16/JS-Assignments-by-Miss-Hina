@@ -2,7 +2,7 @@
 // var userName = "Aliza";
 //Check the output in console
 
-//==========================Q2=====================================
+//==========================Q2======================================
 // var myName = "Syeda Aliza Ayaz";
 //Check the output in console
 

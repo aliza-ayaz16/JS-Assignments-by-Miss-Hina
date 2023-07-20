@@ -1,0 +1,73 @@
+/* .question-1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+fieldset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.form_legend {
+    margin: 0 auto 1rem !important;
+}
+
+.form_legend h1 {
+    font-size: xx-large;
+    line-height: 2vw;
+    color: #00417e;
+}
+
+.fields {
+    display: block;
+    margin-bottom: 2vw;
+}
+
+.fields label {
+    display: block;
+    font-size: 1.25vw;
+}
+
+.fields input {
+    border-radius: 1.75rem;
+    padding: .9vw;
+    width: 50vw;
+    border-color: #005cb4;
+}
+
+.fields input:focus {
+    border-color: rgb(0, 110, 255);
+    border-width: 4px;
+}
+
+.submit-btn button {
+    background-color: #2fafd6;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    height: 7vh;
+    width: 15vw;
+    color: #fff;
+    font-size: larger;
+    margin-top: 3vw;
+}
+
+.submit-btn button:hover {
+    background-color: #005cb4;
+} */
+
+/********** Question 3 ************/
+/* .question-3 table td,th {
+    padding: 5px;
+    text-align: center;
+}
+
+.editing {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+} */
